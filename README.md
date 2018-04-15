@@ -46,15 +46,14 @@ I introduced MakerClub sessions within Bournemouth's community and grew and mark
 
 Coding events I have run workshops with:
 
-* **Institute of Imagination, Robotics Workshop **  *London (2017)*
+* **Institute of Imagination, Robotics Workshop**  *London (2017)*
 
-* **Ernst & Young, Corportate Robotics Workshop**  *London (2017)*
+* **Ernst & Young, Corportate Robotics Workshop** *London (2017)*
 
-* **[WIRED Next Generation](https://www.youtube.com/watch?v=EqRuH_rfBZ8&t=66s), Robotics Workshop **  *London (2016 & 2017*)
+* **[WIRED Next Generation](https://www.youtube.com/watch?v=EqRuH_rfBZ8&t=66s), Robotics Workshop ** *London (2016 & 2017*)
 
-* **Barclays Code Playground, Coding Workshop**  *Bournemouth (2016)*
+* **Barclays Code Playground, Coding Workshop** *Bournemouth (2016)*
 
-  ​
 
 
 #### Digital Skills Trainer | [Freeformers](https://freeformers.com/)
