@@ -12,9 +12,13 @@ Short sentence about what I've achieved with Makers and what environment I'd lik
 
 ### The Fun Stuff
 
-| Project                  |        Description         | Technology             |
-| ------------------------ | :------------------------: | ---------------------- |
-| ****   Fill these   **** | ****   With amazing   **** | ****   Projects   **** |
+| Project                                                      |      Description      | Technology       |
+| ------------------------------------------------------------ | :-------------------: | ---------------- |
+| ****   Fill these   ****                                     | ***  With Amazing *** | *** Projects *** |
+| Final Project                                                |                       |                  |
+| [Makers BnB](https://github.com/ellie-keen/makersBnb)        |                       |                  |
+| [Battle](https://github.com/ellie-keen/battle)               |                       |                  |
+| [Chitter Challenge](https://github.com/ellie-keen/chitter-challenge) |                       |                  |
 
 
 ## Skills
