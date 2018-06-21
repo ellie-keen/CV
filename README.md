@@ -1,121 +1,86 @@
-## Eleanor Keen
-
-[GitHub](https://github.com/ellie-keen) **|** [LinkedIn](https://www.linkedin.com/in/ellie-keen-4993a2123/) **|** [CodeWars](https://www.codewars.com/users/ellie-keen) **|**[Experience](#experience)
-
-In training to become a Full Stack Developer at Europe's leading Software Development bootcamp, [Makers Academy](https://www.makersacademy.com/).
-
-For as long as I can remember I've been glued to computers. This interest has taken me from managing technology clubs for youngsters, to teaching corporate bankers how to create web applications. 
-
-My need for a  balance of logic and creativity is what has led me to pursuing a career as a software developer. 
-
-Short sentence about what I've achieved with Makers and what environment I'd like to work in*
-
-### The Fun Stuff
-
-| Project                                                      |      Description      | Technology       |
-| ------------------------------------------------------------ | :-------------------: | ---------------- |
-| ****   Fill these   ****                                     | ***  With Amazing *** | *** Projects *** |
-| Final Project                                                |                       |                  |
-| [Makers BnB](https://github.com/ellie-keen/makersBnb)        |                       |                  |
-| [Battle](https://github.com/ellie-keen/battle)               |                       |                  |
-| [Chitter Challenge](https://github.com/ellie-keen/chitter-challenge) |                       |                  |
 
 
-## Skills
+##                                        Eleanor Keen
 
-#### Leadership
+​                                                      [GitHub](https://github.com/ellie-keen) **|** [LinkedIn](https://www.linkedin.com/in/ellie-keen-4993a2123/) **|** [CodeWars](https://www.codewars.com/users/ellie-keen) **|**[Experience](#experience)
 
-As Technology Club Manager at MakerClub, my role entailed leading a small team of staff and volunteers. I was responsible for the hiring, training and onboarding proccess of my team.
+As a graduate of Europe's leading Software Development bootcamp, Makers Academy, I am seeking opportunities in London as a Junior Full-Stack Developer. 
 
-I contributed to the curriculum taught within the clubs and was often asked to deliver my ideas to other Club Managers nationwide. This gave me the opportunity to exemplify how workshops should be delivered and how to adhere to the brand.
+I previously spent two years setting up code and technology clubs for youngsters and running workshops in app creation and digital skills for corporate clients.
 
-Prior to working in technology, I worked in hospitality as a Supervisor at Bournemouth's busiest Wetherspoon establishment. I would manage a team of up to 10 people per shift. This involved delegating tasks, managing customer's needs and reporting back to senior management on issues such as inventory.
+I am now looking for a work environment where I can keep growing my knowledge of programming and continue having fun doing what I love, crafting creative projects with other like-minded engineers. 
 
-#### Communication
+---
 
-* *Use example from time at Makers* (Pair programming, team projects)
+#### Projects
 
-My previous roles have often required me to present and engage audiences. This is where I developed the skill of public speaking. I was once asked to speak at an assembly at a local college about Rapid Prototyping. This encounter led to a business deal where I guided college students through a 10 week employability project. This ended with amazing results, where the college I was mentoring won the [Aspirations Academies Portfolio](https://www.youtube.com/watch?v=GylvEmoT8ko) against competing colleges. 
+|                                                              |                         Description                          | Technologies Used                                   | Testing Technologies |
+| ------------------------------------------------------------ | :----------------------------------------------------------: | --------------------------------------------------- | -------------------- |
+| Final Project                                                |                                                              |                                                     |                      |
+| [Makers BnB](https://github.com/ellie-keen/makersBnb)        |                                                              |                                                     |                      |
+| [Battle](https://github.com/ellie-keen/battle)               |                                                              |                                                     |                      |
+| [Chitter Challenge](https://github.com/ellie-keen/chitter-challenge) | A challenge to create a Twitter clone which can store and access 'cheeps' from a database | Ruby, Sinatra, Postgres, TablePlus, HTML5(ERB), CSS | Rspec, Capybara      |
 
+---
 
+#### Experience
 
-## Experience
+#### Student | [Makers Academy](https://makers.tech/)
+
+March 2018 - July 2018
+
+I am a graduate of the intensive developer bootcamp where I learned object-oriented programming with a focus on test-driven development. I learned how to break down and solve problems using best coding practices.
+
+My experience simulated working in a real dev team where we implemented an agile way of working, as well as working independently. A large part of the course focuses on emotional intelligence which is crucial to have when working in a team; being able to understand how to help others around you, as well as maintaing self-care to avoid burnout. 
 
 #### Technology Club Manager | [MakerClub](http://makerclub.org/)
 June 2016 - December 2017    
 
-MakerClub provides technology and invention clubs for children aged 7-14 where they learn everything from robotics and programming, to 3D printing.
+I introduced MakerClub sessions within Bournemouth's community where I taught robotics, programming, design and 3D printing to children 7-16. I contributed to the nationwide curriculum, liaised with corporate clients and ran the online customer service system allowing me to experience many sides of the business.
 
-I introduced MakerClub sessions within Bournemouth's community and grew and marketed the MakerClub brand. I contributed to the curriculum, liaised with corporate clients for *BrightSparks*(link) sponsorships and ran the online customer service system.
-
-Coding events I have run workshops with:
-
-* **Institute of Imagination, Robotics Workshop**  *London (2017)*
-
-* **Ernst & Young, Corportate Robotics Workshop** *London (2017)*
-
-* **[WIRED Next Generation](https://www.youtube.com/watch?v=EqRuH_rfBZ8&t=66s), Robotics Workshop** *London (2016 & 2017*)
-
-* **Barclays Code Playground, Coding Workshop** *Bournemouth (2016)*
-
-
+I ran coding and robotics workshops at the following events: Institude of Imagination, Ernst & Young, WIRED's Next Generation and Barclays Code Playground.
 
 #### Digital Skills Trainer | [Freeformers](https://freeformers.com/)
 April 2016 - April 2017   
 
-Freeformers is a technology company, with a focus on enhancing the digital skills of current and future workforces. This includes running corporate training days and hosting digital skills festivals, such as [Upload Live](https://www.youtube.com/watch?v=kVkD0f-tos8), for young people. 
+I ran both corporate training days and coding workshops at digital skills festivals, such as [Upload Live](https://www.youtube.com/watch?v=kVkD0f-tos8), for young people. As a Digital Skills trainer it was my duty to deliver engaging presentations to large groups in the following content:
 
-As a Digital Skills trainer it was my duty to deliver engaging presentations to large groups. The content included the following:
+APIs, Servers and Data Centres, App prototyping and invention, Cyber Security, Agile methodologies.
 
-* APIs
-
-
-* Servers and Data Centres
-
-
-* App prototyping and invention
-* Cyber Security
-* Agile methodologies
+---
 
 
 
-## Education
+#### Skills
 
-####Makers Academy (April 2018 to July 2018)
+- **Communcation** - Throughout Makers Academy I have worked in either a pair or group which I have loved. Communication was crucial to the success of this...
+- **Public Speaking** - Previous roles have often entailed speaking infront of large audeinces. 
+- **Emotional Intelligence** - I've been practicing emotional intelligence by attending ...
+- **Adaptable** - ....
+- **Team Player** - ...
+- **Reliability** - ..
+- **Attention to Detail** -...
+- **Work Well Under Pressure** - Previously, I worked in hospitality as a Supervisor at Bournemouth's busiest Wetherspoon establishment. It was a fast paced work environment where I was responsible for a team of up to 10 people per shift.....
+- **Leadership** - At MakerClub my role entailed leading a small team of staff and volunteers. I was responsible for the hiring, training and onboarding proccess of my team.
 
-*To complete during makers*
+---
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
+#### Education
 
-- Fast, independent learner [PROVIDE EVIDENCE]
-
-- Great collaborator [PROVIDE EVIDENCE]
-
-- OOP, TDD, MVC, DDD
-
-- Agile/XP
-
-- Ruby, Rails, JavaScript
-
-- Testing frameworks: RSpec, Jasmine
-
-  ​
-
-#### Short Course Web Design, Arts University Bournemouth (2015)
+##### Short Course Web Design, Arts University Bournemouth (2015)
 
 This was where I had my first taste of coding. I learned about front end technologies such as HTML & CSS.
 
-#### Peter Symonds College, Winchester | King's Secondary, Winchester (2006-2013)
+##### Peter Symonds College, Winchester (2011 - 2013)
 
 **A Levels**
 - Music Technology, Psychology, Italian(AS) and Communication & Culture
+
+##### King's Secondary, Winchester (2006-2011)
 
 
 **GCSEs**
 
 - 10 GCSEs A and B Grades including English, Maths and Science.
 
-## Interests
-
-* Music technology and playing live music.
-* Any excuse to go to Clissold Park, to play some ultimate frisbee or to visit the local skateboarding dog, [Eroc](https://www.instagram.com/erocdog/?hl=en).  
+  #### 
