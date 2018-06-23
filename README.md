@@ -1,6 +1,6 @@
 
 
-##                                        Eleanor Keen
+##                                        					 Ellie Keen
 
 ​                                                      [GitHub](https://github.com/ellie-keen) **|** [LinkedIn](https://www.linkedin.com/in/ellie-keen-4993a2123/) **|** [CodeWars](https://www.codewars.com/users/ellie-keen) **|**[Experience](#experience)
 
@@ -83,4 +83,4 @@ This was where I had my first taste of coding. I learned about front end technol
 
 - 10 GCSEs A and B Grades including English, Maths and Science.
 
-  #### 
+  
